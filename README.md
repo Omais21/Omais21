@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React.JS
 - 💞️ I’m looking to collaborate on Developing Websites
 - 📫 How to reach me ranaomais92@gmail.com
-- 
+
 
 <!---
 Omais21/Omais21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
